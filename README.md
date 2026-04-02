@@ -70,3 +70,12 @@ Each project report includes the following sections:
         <td style="border:1px solid gray; text-align: center;"><a href="./JLPT-iOS-App/JLPT-iOS-App.md">Link</a></td>
     </tr>
 </table>
+
+
+## Online Training & Certification
+During the course of technology exploration, I have also completed the following online training and certifications to enhance my knowledge and skills in AI strategy, MLOps, and AI-augmented product development:
+- [AWS Generative AI and AI Agents with Amazon Bedrock Specialization](https://www.coursera.org/account/accomplishments/specialization/YXZDMFJIMQQV)
+- [Foundations of Project Management, Google](https://www.coursera.org/account/accomplishments/records/GWRWUGU3US40)
+- [Product Management: An Introduction, IBM](https://www.coursera.org/account/accomplishments/records/AWBASNPRG71I)
+- [Computer Networks and Network Security](https://www.coursera.org/account/accomplishments/records/SV5VM7S79ZYF)
+- [Fundamentals of Java Programming](https://www.coursera.org/account/accomplishments/records/4NCJNMWBORR7)

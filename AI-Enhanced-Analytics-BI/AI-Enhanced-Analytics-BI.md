@@ -11,10 +11,12 @@
 - Agent tools to generate visualizations and insights based on the processed data.
 - Agent tools to consolidate and summarize insights into a coherent response for the user.
 
+
 ## Tech Stack
 - LLM & Orchestration: RAG (Retrieval-Augmented Generation), LangGraph, DSPy, LangChain
 - Data Processing: SQL, Pandas
 - Visualization: Plotly
+
 
 ## Future Applicability
 - Enables natural language → SQL → visualization workflows to complement traditional BI reporting

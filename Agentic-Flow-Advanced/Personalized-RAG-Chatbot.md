@@ -7,6 +7,8 @@ To build a personalized RAG system with a chatbot for a financial assistant. The
 - Agentic Flow: an agentic chatbot that retrieves relevant financial knowledge and adapts its communication style to each user's profile
 - Orchestration: the system combines Retrieval-Augmented Generation with user memory, profile-driven persona selection, and safety guardrails to deliver contextually grounded, personalized financial guidance.
 
+![Architecture](assets/Architecture.png)
+
 ## Tech Stack
 - LLM & Orchestration: RAG (Retrieval-Augmented Generation), LangGraph
 - Prompt Engineering: DSPy, LangChain

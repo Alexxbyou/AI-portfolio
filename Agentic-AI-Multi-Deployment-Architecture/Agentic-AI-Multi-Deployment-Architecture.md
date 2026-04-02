@@ -10,6 +10,7 @@
 - Data-driven queries converted into executable queries for data extraction and analysis across multiple sources.
 - Guardrail agent to ensure responses remain aligned with intended use and constraints.
 
+
 ## Tech Stack
 - LLM & Orchestration: RAG (Retrieval-Augmented Generation), LangGraph
 - Deployment Exploration:
@@ -17,6 +18,8 @@
   - Minikube (local Kubernetes testing)
   - GKE (managed Kubernetes cluster)
   - Vertex AI (managed AI platform)
+
+![Deployment](assets/LLM%20Chat%20Deployment%20Options.png)
 
 ## Future Applicability
 - The exploration provided a range of deployment strategies, enabling flexible selection of optimal production environments.
@@ -38,3 +41,9 @@
 
 ## Github Repository
 - [Agentic-AI-Multi-Deployment-Architecture](https://github.com/Alexxbyou/Agentic-LLM)
+
+## Knowledge Graph
+![Knowledge Graph](assets/Knowledge%20base.png)
+
+## Agentic Workflow
+![Agentic Workflow](assets/Agentic_Flow.png)
