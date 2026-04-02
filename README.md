@@ -39,7 +39,7 @@ Each project report includes the following sections:
       <td style="border:1px solid gray; text-align: center;">✓</td>
       <td style="border:1px solid gray; text-align: center;">✓</td>
       <td style="border:1px solid gray; text-align: center;">✓</td>
-      <td style="border:1px solid gray; text-align: center;"><a href="./Agentic-AI-Multi-Deployment-Architecture/Agentic-AI-Multi-Deployment-Architecture.md">Link</a></td>
+      <td style="border:1px solid gray; text-align: center;"><a href="./AAMDA/AAMDA.md">Link</a></td>
   </tr>
   <tr>
       <td style="border:1px solid gray;">MLOps Libraries</td>

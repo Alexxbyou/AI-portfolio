@@ -4,7 +4,6 @@
 - Repetitive HR and recruitment-related queries require manual handling, reducing efficiency.
 - Limited ability to dynamically extract and analyze data from job descriptions, project tables, and repositories.
 
-![demo](assets/AMD_demo.gif)
 
 ## Solution Design
 - Agentic workflow to triage and route queries based on intent.
@@ -22,7 +21,7 @@
   - GKE (managed Kubernetes cluster)
   - Vertex AI (managed AI platform)
 
-![Deployment](assets/LLM%20Chat%20Deployment%20Options.png)
+![Deployment](assets/LLM_Dep_Options.png)
 
 ## Future Applicability
 - The exploration provided a range of deployment strategies, enabling flexible selection of optimal production environments.
@@ -46,7 +45,7 @@
 - [Agentic-AI-Multi-Deployment-Architecture](https://github.com/Alexxbyou/Agentic-LLM)
 
 ## Knowledge Graph
-![Knowledge Graph](assets/Knowledge%20base.png)
+![Knowledge Graph](assets/Knowledge_base.png)
 
 ## Demo
 ![demo](assets/AMD_demo.gif)
