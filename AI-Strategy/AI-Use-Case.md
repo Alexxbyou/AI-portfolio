@@ -2,9 +2,10 @@
 
 This article provides an overview of the AI use case landscape as of April 2026, highlighting key applications and trends in the field of artificial intelligence.
 
-## Summary Table
 
-### AI Use Case Categorization (2026)
+## AI Use Case Categorization (2026)
+
+![AI Use Case Landscape](assets/AI-Cat.png)
 
 <table style="border-collapse: collapse; width: 100%;">
     <thead>
@@ -82,20 +83,13 @@ This article provides an overview of the AI use case landscape as of April 2026,
     </tbody>
 </table>
 
-
-
-
-
-## Relevant AI Use Case Category when creating this report
-<table style="border:1px solid gray; border-collapse: collapse;">
-  <tr>
-    <th style="border:1px solid gray;">Information Search</th>
-    <th style="border:1px solid gray;">AI Augmented Product</th>
-    <th style="border:1px solid gray;">AI Coworker</th>
-  </tr>
-  <tr>
-    <td style="border:1px solid gray; text-align: center;">✓</td>
-    <td style="border:1px solid gray; text-align: center;"></td>
-    <td style="border:1px solid gray; text-align: center;">✓</td>
-  </tr>
-</table>
+## Future Analysis
+- **Business:** The strategic implications of AI for organizations, including 
+  - complexity of AI adoption
+  - utility, performance and evaluation of AI solutions
+  - prioritization of AI use cases.
+- **Technology:** The practicals of implementing and deploying AI solutions, including 
+  - technical challenges
+  - infrastructure requirements
+  - AI security considerations
+  - and best practices for development and maintenance.

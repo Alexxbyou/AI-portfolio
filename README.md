@@ -1,12 +1,12 @@
-## Technology Exploration Portfolio
+# GenAI & Infrastructure Portfolio
 
 
 ## Overview
 This portfolio showcases a range of technology explorations focused on
-- **AI strategy:**
-- **AI use cases:**
-- **MLOps:**
-- **AI-augmented product development:**
+- **AI strategy:** analysis of the AI use case landscape, strategic implications for organizations, and practical considerations for AI adoption.
+- **AI use cases:** development of various AI applications, including information search tools, AI-augmented products, and AI coworkers/productivity assistants.
+- **MLOps:** development of a comprehensive MLOps Python library to support the machine learning lifecycle.
+- **AI-augmented product development:** creation of iOS apps for daily use, demonstrating the integration of machine learning models into end-user applications.
 
 ## Report Structure
 Each project report includes the following sections:
@@ -28,7 +28,7 @@ Each project report includes the following sections:
     <th style="border:1px solid gray;">Report</th>
   </tr>
   <tr>
-      <td style="border:1px solid gray;">AI Strategy</td>
+      <td style="border:1px solid gray;">AI Strategy - AI Use Case Categorization</td>
       <td style="border:1px solid gray; text-align: center;">✓</td>
       <td style="border:1px solid gray; text-align: center;"></td>
       <td style="border:1px solid gray; text-align: center;">✓</td>
@@ -40,6 +40,13 @@ Each project report includes the following sections:
       <td style="border:1px solid gray; text-align: center;">✓</td>
       <td style="border:1px solid gray; text-align: center;">✓</td>
       <td style="border:1px solid gray; text-align: center;"><a href="./Agentic-AI-Multi-Deployment-Architecture/Agentic-AI-Multi-Deployment-Architecture.md">Link</a></td>
+  </tr>
+  <tr>
+      <td style="border:1px solid gray;">MLOps Libraries</td>
+      <td style="border:1px solid gray; text-align: center;">✓</td>
+      <td style="border:1px solid gray; text-align: center;"></td>
+      <td style="border:1px solid gray; text-align: center;">✓</td>
+      <td style="border:1px solid gray; text-align: center;"><a href="./MLOps-Library/MLOps-Library.md">Link</a></td>
   </tr>
   <tr>
       <td style="border:1px solid gray;">Personalized RAG Chatbot</td>

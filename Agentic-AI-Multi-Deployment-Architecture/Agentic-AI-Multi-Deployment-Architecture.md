@@ -10,6 +10,7 @@
 - Data-driven queries converted into executable queries for data extraction and analysis across multiple sources.
 - Guardrail agent to ensure responses remain aligned with intended use and constraints.
 
+![Agentic Workflow](assets/Agentic_Flow.png)
 
 ## Tech Stack
 - LLM & Orchestration: RAG (Retrieval-Augmented Generation), LangGraph
@@ -44,6 +45,3 @@
 
 ## Knowledge Graph
 ![Knowledge Graph](assets/Knowledge%20base.png)
-
-## Agentic Workflow
-![Agentic Workflow](assets/Agentic_Flow.png)
