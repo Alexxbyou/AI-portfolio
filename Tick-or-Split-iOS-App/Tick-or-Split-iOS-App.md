@@ -29,3 +29,7 @@
   </tr>
 </table>
 
+
+## Demo
+
+![demo](assets/Tick_Split.gif)

@@ -41,3 +41,6 @@
 ## Github Repository
 - [JLPT-Vocab](https://github.com/Alexxbyou/JLPT-Vocab)
 
+## Demo
+
+![demo](assets/JLPT_demo.gif)

@@ -4,6 +4,8 @@
 - Repetitive HR and recruitment-related queries require manual handling, reducing efficiency.
 - Limited ability to dynamically extract and analyze data from job descriptions, project tables, and repositories.
 
+![demo](assets/AMD_demo.gif)
+
 ## Solution Design
 - Agentic workflow to triage and route queries based on intent.
 - Generic factual queries handled via structured knowledge retrieval.
@@ -45,3 +47,6 @@
 
 ## Knowledge Graph
 ![Knowledge Graph](assets/Knowledge%20base.png)
+
+## Demo
+![demo](assets/AMD_demo.gif)
