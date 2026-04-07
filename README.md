@@ -46,7 +46,7 @@ Each project report includes the following sections:
       <td style="border:1px solid gray; text-align: center;">✓</td>
       <td style="border:1px solid gray; text-align: center;"></td>
       <td style="border:1px solid gray; text-align: center;">✓</td>
-      <td style="border:1px solid gray; text-align: center;"><a href="./MLOps-Library/MLOps-Library.md">Link</a></td>
+      <td style="border:1px solid gray; text-align: center;"><a href="./MLOps-library/MLOps-library.md">Link</a></td>
   </tr>
   <tr>
       <td style="border:1px solid gray;">Personalized RAG Chatbot</td>
