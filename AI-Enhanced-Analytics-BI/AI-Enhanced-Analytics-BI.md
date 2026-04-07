@@ -11,6 +11,7 @@
 - Agent tools to generate visualizations and insights based on the processed data.
 - Agent tools to consolidate and summarize insights into a coherent response for the user.
 
+![Agent Flow](assets/Query_Agent_Flow.jpg)
 
 ## Tech Stack
 - LLM & Orchestration: RAG (Retrieval-Augmented Generation), LangGraph, DSPy, LangChain

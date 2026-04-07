@@ -11,6 +11,8 @@
 - The library will be designed with modularity and extensibility in mind, allowing users to easily add new tools or replace existing ones as needed.
 - The library should be tested with various use cases and scenarios to ensure robustness and reliability.
 
+![MLOps Flow](assets/dsmodelling.jpg)
+
 ## Tech Stack
 - Python 3.10+
 - Key libraries: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
@@ -35,4 +37,4 @@
 </table>
 
 ## Github Repository
-- [MLOps Python Library]()
+- [MLOps Python Library](https://github.com/Alexxbyou/PM_ds_modelling)
