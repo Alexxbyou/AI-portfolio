@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td style="border:1px solid gray; text-align: center;">✓</td>
-    <td style="border:1px solid gray; text-align: center;">✓</td>
+    <td style="border:1px solid gray; text-align: center;"> </td>
     <td style="border:1px solid gray; text-align: center;">✓</td>
   </tr>
 </table>
