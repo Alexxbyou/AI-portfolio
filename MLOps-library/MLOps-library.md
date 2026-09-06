@@ -38,3 +38,6 @@
 
 ## Github Repository
 - [MLOps Python Library](https://github.com/Alexxbyou/PM_ds_modelling)
+- Notebook Examples:
+  - Diabetes Prediction: [Python](assets/NotebookExamples/DiabetesPrediction/Jupyter_Notebook.html), [R](assets/NotebookExamples/DiabetesPrediction/RMD_Notebook.html)
+  - Credit Default: [R](assets/NotebookExamples/CreditDefault/RMD_Notebook.html)
